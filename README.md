@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👨‍💻 I am currently working on AI-enabled e-commerce websites.<br><br>🤝 I'm looking to collaborate on data-driven projects and innovative AI solutions.<br><br>🙏 I'm looking for help with scaling AI models for real-world applications.<br><br>📚 I'm currently learning advanced machine learning techniques and cloud computing.<br><br>❓ Ask me about data science, e-commerce trends, or anything tech-related.<br><br>🌌 Fun fact: I'm an amateur astronomer and love stargazing at night!<br>🔗 Check out my portfolio: [Portfolio](https://gyanendra2003.github.io/Portfolio_new)
+<br><br>👨‍💻 I am currently working on AI-enabled e-commerce websites.<br><br>🤝 I'm looking to collaborate on data-driven projects and innovative AI solutions.<br><br>🙏 I'm looking for help with scaling AI models for real-world applications.<br><br>📚 I'm currently learning advanced machine learning techniques and cloud computing.<br><br>❓ Ask me about data science, e-commerce trends, or anything tech-related.<br><br>🌌 Fun fact: I'm an amateur astronomer and love stargazing at night!<br><br>🔗 Check out my portfolio: [Portfolio](https://gyanendra2003.github.io/Portfolio_new)
 "<br>
 
 
